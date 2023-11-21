@@ -5,6 +5,10 @@ extreme_rainfall
 extreme_temperature
 air_temperature_from_21_weather_stations
 air_temperature_from_21_weather_stations-1
+ausenhealth_indicator_project
+ausenhealth_indicators_air_quality
+ausenhealth_indicators_climate
+ausenhealth_vulnerability_index
 bom_climate_maps
 humidity
 rainfall
